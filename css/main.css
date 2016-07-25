@@ -1,0 +1,64 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+/*div{
+  border-style: solid;
+  border-width: 3px;
+  border-color: green;
+}*/
+
+body {
+
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", Helvetica, Arial, sans-serif;
+  background: #30302F;
+  color: white;
+  border-top: 10px solid purple;
+  border-top-color: #DD5117;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+object {
+margin: 0 auto;
+width: 55vw;
+height: auto;
+display: block;
+}
+
+.shitface {
+  margin-top: 5vh;
+  width: 70vw;
+  height: auto;
+  display: block;
+}
+
+/*wrapper {
+  width: 100%;
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  background: #30302F;
+  border-top: 10px solid purple;
+  border-top-color: #DD5117;
+}*/
+
+.logo {
+  margin-left: auto;
+  margin-right: auto;
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+
+/*.navigation a {
+  color: white;
+  text-decoration: none;
+}*/
